@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-json-enrichment-bundle.iml" filepath="$PROJECT_DIR$/nifi-json-enrichment-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-json-enrichment-nar/nifi-json-enrichment-nar.iml" filepath="$PROJECT_DIR$/nifi-json-enrichment-nar/nifi-json-enrichment-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-json-enrichment-processors/nifi-json-enrichment-processors.iml" filepath="$PROJECT_DIR$/nifi-json-enrichment-processors/nifi-json-enrichment-processors.iml" />
+    </modules>
+  </component>
+</project>
